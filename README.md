@@ -1,0 +1,6 @@
+**web app dashboard:** https://github.com/pehlpgamer-cpu/Dashboard-WaterVendoMachineV2
+**BSIT 2-F3 group members:**
+- Paulo E. Heymann
+- Chris Dale Noay
+- Cedrick Masculino
+- Jicel Chrisostomo
