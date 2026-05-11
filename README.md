@@ -1,4 +1,6 @@
 - **web app dashboard:** https://github.com/pehlpgamer-cpu/Dashboard-WaterVendoMachineV2
+- **System manual:** 
+- **Documentation:** github.com/pehlpgamer-cpu/FINAL-PROJECT-water-vendo-machine/tree/main
 - **BSIT 2-F3 group members:**
   - Paulo E. Heymann
   - Chris Dale Noay
